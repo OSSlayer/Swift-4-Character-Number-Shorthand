@@ -1,4 +1,4 @@
-To add more to it just add another case to the switch statement and increase the rounding digits.
+To add more to it simply add another case to the switch statement and increase the rounding digits.
 
 Ex:
 
